@@ -45,6 +45,6 @@ I'm an aspiring **Data Engineer** currently focused on mastering the core buildi
 
 📬 **Let’s Connect**  
 - GitHub: [Eesa2004](https://github.com/Eesa2004)  
-- Email: *youremail@example.com*
+- Email: *eesaxyz@gmail.com*
 
 ---
