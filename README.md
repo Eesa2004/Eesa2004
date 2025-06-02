@@ -1,16 +1,50 @@
-## Hi there 👋
+## 👋 Hi, I’m Eesa
 
-<!--
-**Eesa2004/Eesa2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Data Engineer** currently focused on mastering the core building blocks of data systems — from Python scripting to SQL querying and automation workflows.
 
-Here are some ideas to get you started:
+**Check out my [portfolio](https://github.com/Eesa2004/portfolio) for a complete list of my projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech I'm Learning
+
+- **Languages**: Python, SQL  
+- **Tools**: Git, GitHub, VS Code  
+- **Data Handling**: Pandas, CSV, JSON  
+- **Concepts**: ETL basics, scripting, automation, problem solving
+
+---
+
+## 🚧 Current Projects 
+
+- 🔍 CSV Analysis Tool with Python & Pandas  
+- 🧼 Web Scraping & Data Cleaning Practice  
+- 🗃️ SQL Query Practice Notebooks  
+- 📁 Git Workflows for Personal Projects
+
+---
+
+## 👯 I’m looking to collaborate on 
+
+- Building data pipelines and ETL workflows
+- Automating data ingestion and cleaning tasks
+- Learning and experimenting with cloud data services (AWS, GCP)
+- Developing open-source tools or scripts for data engineering productivity
+- Improving SQL query performance and database design
+
+---
+
+## 🎯 Goals This Year
+
+- Build a portfolio of real-world data projects  
+- Learn PostgreSQL, Docker, and Airflow step-by-step  
+- Understand cloud basics (AWS/GCP) and how they support data engineering  
+- Transition into freelance/contract data roles
+
+---
+
+📬 **Let’s Connect**  
+- GitHub: [Eesa2004](https://github.com/Eesa2004)  
+- Email: *youremail@example.com*
+
+---
